@@ -14,7 +14,7 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [compat]
 ArnoldiMethod = "0.2"
-Clustering = "0.14"
+Clustering = "0.15"
 Graphs = "1.4"
 julia = "1"
 
